@@ -1,8 +1,27 @@
-# React + Vite
+# Netflix Clone with React and Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a Netflix clone built using React and Firebase. It includes features such as user authentication, protected routes, and a responsive design. The application is deployed on Netlify.
 
-Currently, two official plugins are available:
+## Live Demo
+Check out the live demo of the project [here](https://fnk28-react-p1.netlify.app/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- User Authentication (Sign Up, Login, Logout)
+- Protected Routes
+- Responsive Design
+- Firebase Firestore for storing user data
+
+## Technologies Used
+- React
+- Firebase (Authentication, Firestore)
+- Tailwind CSS
+- React Router
+
+## Getting Started
+
+### Prerequisites
+- Node.js
+- npm (Node Package Manager)
+- Firebase account
+
+
